@@ -1,0 +1,15 @@
+{
+  "name": "convertedtobun",
+  "version": "1.0.0",
+  "author": "",
+  "main": "index.js",
+  "devDependencies": {
+    "bun-types": "^1.0.14"
+  },
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "scripts": {
+    "start": "bun app.ts"
+  }
+}
